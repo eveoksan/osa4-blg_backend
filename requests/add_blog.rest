@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1hbGVmaWNlbnQiLCJpZCI6IjY1MDVjMzlkNDRlYjJlNTU1MDU1NzE3ZSIsImlhdCI6MTY5NDk2MjMwNiwiZXhwIjoxNjk0OTY1OTA2fQ.zjyd0NrBNBf48qzjee6vZBvycZ6p17DoJ5kiOs85gTA
+
+{
+"title": "Selfcare",
+"author": "Ursula",
+"url": "www.seawitch.co",
+"likes": 36
+}
